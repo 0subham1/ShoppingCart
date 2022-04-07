@@ -1,12 +1,9 @@
-
 const Cart = () => {
-    return(
-        <>
-            
-            <h1>"This is cart"</h1>
-        </>
-    )
+  return (
+    <>
+      <h1>"This is cart"</h1>
+    </>
+  );
+};
 
-}
-
-export default Cart
+export default Cart;
